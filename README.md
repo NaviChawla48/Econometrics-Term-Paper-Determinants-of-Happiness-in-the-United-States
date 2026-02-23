@@ -1,0 +1,1 @@
+This project investigates the socioeconomic factors that influence self-reported happiness levels in the United States using data from the General Social Survey (GSS). The study aims to determine which variables—such as income, marital status, health, and employment—have the most significant impact on an individual's well-being.
